@@ -15,7 +15,7 @@ Greetings, everyone, and a warm welcome to the "Sequel for Absolute Beginners" c
 
 First and foremost, I would like to express my sincere gratitude to all of you for enrolling in this course. Our aim is to equip you with the necessary skills to work with SQL or Sequel and enable you to manipulate data with better techniques.
 
-Through this course, you will gain mastery in Sequel, which can help you land jobs in several fields such as data analytics, database management, and full-stack development, among others.
+Through this course, you will gain mastery in Sequel, which can help you land jobs in several fields such as data analytics, database management, and full-stack development, to name a few.
 
 We hope that you will enjoy this course while developing your skills, and we look forward to assisting you in your growth.
 
@@ -23,7 +23,7 @@ Allow me to introduce myself; my name is Ana, and I have been an instructor and 
 
 Let's now move on to the installation of the software required for this course. We have provided a walkthrough for both Windows and Mac users, so please follow the one that suits your device. After the installation, we need to ensure that we have MySQL Server, MySQL Workbench, and MySQL Shell to start working on our projects.
 
-To provide a quick explanation of why we need these components: the language we will be coding in is Sequel, an acronym for Structured Query Language. We will use Sequel to manipulate tables with our database server. MySQL Workbench is the user interface that we will utilize to code, and the shell is a command-line interface that we can use to interact with MySQL Server. These four components are distinct, so let's review them quickly: Sequel is the language, MySQL Workbench is the user interface, and MySQL Shell is a command-line interface that we can use instead of the Workbench to interact with the server.
+To provide a quick explanation of why we need these components: the language we will be coding in is Sequel, an acronym for Structured Query Language. We will use Sequel to manipulate tables with our database server. MySQL Workbench is the user interface that we will utilize to code, and the shell is a command-line interface that we can use to interact with MySQL Server. These four components are distinct, so let's quickly recap: Sequel is the language, MySQL Workbench is the user interface, and MySQL Shell is a command-line interface that we can use instead of the Workbench to interact with the server.
 
 Having completed that quick breakdown, let's move on to the installations. 
 
